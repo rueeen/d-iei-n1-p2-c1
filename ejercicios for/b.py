@@ -1,0 +1,1 @@
+# Pide un número n y luego n números, mostrando la suma total.
